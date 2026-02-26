@@ -1,0 +1,224 @@
+[
+    {
+        "id": "staff_001",
+        "name": "Coach Delgado",
+        "role": "head_coach",
+        "tier": "elite",
+        "skill": 87,
+        "trait": "Disciplinarian",
+        "synergies": [
+            "Technician",
+            "Strategist"
+        ],
+        "conflicts": [
+            "Rebel"
+        ],
+        "passive_bonus": {
+            "all_training_gain": 7,
+            "match_composure": 4
+        },
+        "salary": 32000,
+        "win_bonus": 800,
+        "bonus_cap": 5600
+    },
+    {
+        "id": "staff_002",
+        "name": "Coach Reyes",
+        "role": "head_coach",
+        "tier": "budget",
+        "skill": 70,
+        "trait": "Motivator",
+        "synergies": [
+            "Underdog",
+            "Showboat"
+        ],
+        "conflicts": [
+            "Ice Queen"
+        ],
+        "passive_bonus": {
+            "all_training_gain": 4,
+            "match_composure": 2
+        },
+        "salary": 15000,
+        "win_bonus": 300,
+        "bonus_cap": 2100
+    },
+    {
+        "id": "staff_003",
+        "name": "Coach Abara",
+        "role": "grapple_coach",
+        "tier": "elite",
+        "skill": 90,
+        "trait": "Analyst",
+        "synergies": [
+            "Alpha",
+            "Technician",
+            "Strategist"
+        ],
+        "conflicts": [
+            "Showboat"
+        ],
+        "passive_bonus": {
+            "naked_wrestling_affinity_growth": 10,
+            "control_in_grapple": 5
+        },
+        "salary": 26000,
+        "win_bonus": 650,
+        "bonus_cap": 4550
+    },
+    {
+        "id": "staff_004",
+        "name": "Coach Park",
+        "role": "striking_coach",
+        "tier": "elite",
+        "skill": 88,
+        "trait": "Disciplinarian",
+        "synergies": [
+            "Technician",
+            "Ice Queen"
+        ],
+        "conflicts": [
+            "Rebel"
+        ],
+        "passive_bonus": {
+            "boxing_affinity_growth": 10,
+            "technique_in_boxing": 5
+        },
+        "salary": 24000,
+        "win_bonus": 600,
+        "bonus_cap": 4200
+    },
+    {
+        "id": "staff_005",
+        "name": "Coach Obi",
+        "role": "striking_coach",
+        "tier": "budget",
+        "skill": 68,
+        "trait": "Motivator",
+        "synergies": [
+            "Underdog",
+            "Rebel"
+        ],
+        "conflicts": [
+            "Strategist"
+        ],
+        "passive_bonus": {
+            "boxing_affinity_growth": 6,
+            "technique_in_boxing": 2
+        },
+        "salary": 12000,
+        "win_bonus": 200,
+        "bonus_cap": 1400
+    },
+    {
+        "id": "staff_006",
+        "name": "Coach Eriksen",
+        "role": "conditioning_coach",
+        "tier": "elite",
+        "skill": 83,
+        "trait": "Analyst",
+        "synergies": [
+            "Alpha",
+            "Technician"
+        ],
+        "conflicts": [
+            "Showboat"
+        ],
+        "passive_bonus": {
+            "endurance_growth": 8,
+            "fatigue_drain_reduction": 0.20
+        },
+        "salary": 22000,
+        "win_bonus": 550,
+        "bonus_cap": 3850
+    },
+    {
+        "id": "staff_007",
+        "name": "Coach Miura",
+        "role": "conditioning_coach",
+        "tier": "budget",
+        "skill": 72,
+        "trait": "Nurturer",
+        "synergies": [
+            "Underdog",
+            "Ice Queen"
+        ],
+        "conflicts": [
+            "Rebel"
+        ],
+        "passive_bonus": {
+            "endurance_growth": 5,
+            "fatigue_drain_reduction": 0.10
+        },
+        "salary": 10000,
+        "win_bonus": 175,
+        "bonus_cap": 1225
+    },
+    {
+        "id": "staff_008",
+        "name": "Coach Havel",
+        "role": "psych_coach",
+        "tier": "elite",
+        "skill": 86,
+        "trait": "Nurturer",
+        "synergies": [
+            "Underdog",
+            "Ice Queen",
+            "Strategist"
+        ],
+        "conflicts": [
+            "Rebel"
+        ],
+        "passive_bonus": {
+            "composure_growth": 8,
+            "stress_drain_reduction": 0.25
+        },
+        "salary": 24000,
+        "win_bonus": 600,
+        "bonus_cap": 4200
+    },
+    {
+        "id": "staff_009",
+        "name": "Coach Strand",
+        "role": "psych_coach",
+        "tier": "budget",
+        "skill": 74,
+        "trait": "Analyst",
+        "synergies": [
+            "Strategist",
+            "Technician"
+        ],
+        "conflicts": [
+            "Showboat"
+        ],
+        "passive_bonus": {
+            "composure_growth": 5,
+            "stress_drain_reduction": 0.12
+        },
+        "salary": 12000,
+        "win_bonus": 200,
+        "bonus_cap": 1400
+    },
+    {
+        "id": "staff_010",
+        "name": "Coach Ferris",
+        "role": "grapple_coach",
+        "tier": "budget",
+        "skill": 73,
+        "trait": "Motivator",
+        "synergies": [
+            "Alpha",
+            "Rebel"
+        ],
+        "conflicts": [
+            "Ice Queen"
+        ],
+        "passive_bonus": {
+            "naked_wrestling_affinity_growth": 7,
+            "control_in_grapple": 2
+        },
+        "salary": 13000,
+        "win_bonus": 300,
+        "bonus_cap": 2100
+    }
+]

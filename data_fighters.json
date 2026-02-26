@@ -1,0 +1,1806 @@
+[
+    {
+        "id": "fighter_001",
+        "name": "Jessica",
+        "club_id": "crimson_court",
+        "age": 29,
+        "core_stats": {
+            "power": 72,
+            "technique": 88,
+            "control": 70,
+            "speed": 65,
+            "endurance": 80,
+            "resilience": 74,
+            "aggression": 55,
+            "composure": 91,
+            "presence": 85
+        },
+        "style_affinities": {
+            "naked_wrestling": 45,
+            "boxing": 70,
+            "catfight": 60,
+            "sexfight": 88
+        },
+        "personality": {
+            "archetype": "Ice Queen",
+            "temperament": "Calm",
+            "social_style": "Aloof",
+            "rivalry_style": "Humiliate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 45,
+            "submissive_lean": 30,
+            "boundaries": [
+                "no_public_degradation"
+            ]
+        },
+        "dynamic_state": {
+            "form": 72,
+            "stress": 22,
+            "fatigue": 15,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 20000,
+            "seasons_remaining": 2,
+            "win_bonus": 2000,
+            "release_clause": 55000
+        }
+    },
+    {
+        "id": "fighter_002",
+        "name": "Ashley",
+        "club_id": "crimson_court",
+        "age": 24,
+        "core_stats": {
+            "power": 80,
+            "technique": 70,
+            "control": 65,
+            "speed": 78,
+            "endurance": 72,
+            "resilience": 82,
+            "aggression": 85,
+            "composure": 62,
+            "presence": 70
+        },
+        "style_affinities": {
+            "naked_wrestling": 55,
+            "boxing": 60,
+            "catfight": 85,
+            "sexfight": 50
+        },
+        "personality": {
+            "archetype": "Rebel",
+            "temperament": "Volatile",
+            "social_style": "Dominant",
+            "rivalry_style": "Explode",
+            "motivators": [
+                "Freedom",
+                "Revenge"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 75,
+            "submissive_lean": 20,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 65,
+            "stress": 35,
+            "fatigue": 20,
+            "injury": "none",
+            "morale": 70,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 11000,
+            "seasons_remaining": 3,
+            "win_bonus": 1500,
+            "release_clause": 35000
+        }
+    },
+    {
+        "id": "fighter_003",
+        "name": "Sarah",
+        "club_id": "crimson_court",
+        "age": 27,
+        "core_stats": {
+            "power": 85,
+            "technique": 65,
+            "control": 88,
+            "speed": 60,
+            "endurance": 85,
+            "resilience": 90,
+            "aggression": 78,
+            "composure": 58,
+            "presence": 60
+        },
+        "style_affinities": {
+            "naked_wrestling": 90,
+            "boxing": 45,
+            "catfight": 70,
+            "sexfight": 40
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Obsessive",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 88,
+            "submissive_lean": 10,
+            "boundaries": [
+                "no_sexfight"
+            ]
+        },
+        "dynamic_state": {
+            "form": 78,
+            "stress": 28,
+            "fatigue": 25,
+            "injury": "none",
+            "morale": 75,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 15000,
+            "seasons_remaining": 2,
+            "win_bonus": 1800,
+            "release_clause": 45000
+        }
+    },
+    {
+        "id": "fighter_004",
+        "name": "Emily",
+        "club_id": "crimson_court",
+        "age": 19,
+        "core_stats": {
+            "power": 55,
+            "technique": 72,
+            "control": 50,
+            "speed": 88,
+            "endurance": 60,
+            "resilience": 58,
+            "aggression": 70,
+            "composure": 55,
+            "presence": 78
+        },
+        "style_affinities": {
+            "naked_wrestling": 30,
+            "boxing": 72,
+            "catfight": 60,
+            "sexfight": 65
+        },
+        "personality": {
+            "archetype": "Underdog",
+            "temperament": "Disciplined",
+            "social_style": "Charismatic",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Fame",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Betrayal"
+            ],
+            "dominance_hunger": 35,
+            "submissive_lean": 65,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 55,
+            "stress": 40,
+            "fatigue": 10,
+            "injury": "none",
+            "morale": 72,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 5000,
+            "seasons_remaining": 4,
+            "win_bonus": 1000,
+            "release_clause": 20000
+        }
+    },
+    {
+        "id": "fighter_005",
+        "name": "Juliana",
+        "club_id": "neon_syndicate",
+        "age": 25,
+        "core_stats": {
+            "power": 70,
+            "technique": 75,
+            "control": 60,
+            "speed": 85,
+            "endurance": 70,
+            "resilience": 68,
+            "aggression": 88,
+            "composure": 65,
+            "presence": 95
+        },
+        "style_affinities": {
+            "naked_wrestling": 40,
+            "boxing": 68,
+            "catfight": 75,
+            "sexfight": 90
+        },
+        "personality": {
+            "archetype": "Showboat",
+            "temperament": "Volatile",
+            "social_style": "Charismatic",
+            "rivalry_style": "Humiliate",
+            "motivators": [
+                "Fame",
+                "Money"
+            ],
+            "breakpoints": [
+                "Being outshined",
+                "Losing streak"
+            ],
+            "dominance_hunger": 60,
+            "submissive_lean": 25,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 70,
+            "stress": 30,
+            "fatigue": 18,
+            "injury": "none",
+            "morale": 78,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 17000,
+            "seasons_remaining": 2,
+            "win_bonus": 2500,
+            "release_clause": 50000
+        }
+    },
+    {
+        "id": "fighter_006",
+        "name": "Camila",
+        "club_id": "neon_syndicate",
+        "age": 22,
+        "core_stats": {
+            "power": 58,
+            "technique": 82,
+            "control": 55,
+            "speed": 80,
+            "endurance": 65,
+            "resilience": 62,
+            "aggression": 72,
+            "composure": 70,
+            "presence": 90
+        },
+        "style_affinities": {
+            "naked_wrestling": 35,
+            "boxing": 72,
+            "catfight": 60,
+            "sexfight": 88
+        },
+        "personality": {
+            "archetype": "Showboat",
+            "temperament": "Calm",
+            "social_style": "Charismatic",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Fame",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Being outshined",
+                "Betrayal"
+            ],
+            "dominance_hunger": 40,
+            "submissive_lean": 55,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 62,
+            "stress": 25,
+            "fatigue": 12,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 8000,
+            "seasons_remaining": 3,
+            "win_bonus": 1200,
+            "release_clause": 28000
+        }
+    },
+    {
+        "id": "fighter_007",
+        "name": "Beatriz",
+        "club_id": "neon_syndicate",
+        "age": 28,
+        "core_stats": {
+            "power": 75,
+            "technique": 68,
+            "control": 72,
+            "speed": 70,
+            "endurance": 78,
+            "resilience": 80,
+            "aggression": 80,
+            "composure": 72,
+            "presence": 75
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 65,
+            "catfight": 82,
+            "sexfight": 60
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Disciplined",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Money"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 80,
+            "submissive_lean": 15,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 68,
+            "stress": 20,
+            "fatigue": 22,
+            "injury": "none",
+            "morale": 74,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 14000,
+            "seasons_remaining": 2,
+            "win_bonus": 1800,
+            "release_clause": 42000
+        }
+    },
+    {
+        "id": "fighter_008",
+        "name": "Mariana",
+        "club_id": "neon_syndicate",
+        "age": 23,
+        "core_stats": {
+            "power": 62,
+            "technique": 85,
+            "control": 58,
+            "speed": 75,
+            "endurance": 68,
+            "resilience": 65,
+            "aggression": 60,
+            "composure": 88,
+            "presence": 82
+        },
+        "style_affinities": {
+            "naked_wrestling": 40,
+            "boxing": 85,
+            "catfight": 55,
+            "sexfight": 78
+        },
+        "personality": {
+            "archetype": "Strategist",
+            "temperament": "Calm",
+            "social_style": "Calculating",
+            "rivalry_style": "Sabotage",
+            "motivators": [
+                "Legacy",
+                "Fame"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Betrayal"
+            ],
+            "dominance_hunger": 50,
+            "submissive_lean": 45,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 66,
+            "stress": 18,
+            "fatigue": 10,
+            "injury": "none",
+            "morale": 82,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 9000,
+            "seasons_remaining": 3,
+            "win_bonus": 1400,
+            "release_clause": 32000
+        }
+    },
+    {
+        "id": "fighter_009",
+        "name": "Anya",
+        "club_id": "iron_shore",
+        "age": 30,
+        "core_stats": {
+            "power": 78,
+            "technique": 90,
+            "control": 75,
+            "speed": 62,
+            "endurance": 82,
+            "resilience": 78,
+            "aggression": 50,
+            "composure": 92,
+            "presence": 65
+        },
+        "style_affinities": {
+            "naked_wrestling": 65,
+            "boxing": 92,
+            "catfight": 55,
+            "sexfight": 58
+        },
+        "personality": {
+            "archetype": "Technician",
+            "temperament": "Disciplined",
+            "social_style": "Calculating",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 38,
+            "submissive_lean": 42,
+            "boundaries": [
+                "no_catfight_chaos"
+            ]
+        },
+        "dynamic_state": {
+            "form": 75,
+            "stress": 15,
+            "fatigue": 20,
+            "injury": "none",
+            "morale": 85,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 18000,
+            "seasons_remaining": 2,
+            "win_bonus": 2200,
+            "release_clause": 52000
+        }
+    },
+    {
+        "id": "fighter_010",
+        "name": "Natasha",
+        "club_id": "iron_shore",
+        "age": 26,
+        "core_stats": {
+            "power": 65,
+            "technique": 88,
+            "control": 68,
+            "speed": 82,
+            "endurance": 72,
+            "resilience": 70,
+            "aggression": 55,
+            "composure": 85,
+            "presence": 72
+        },
+        "style_affinities": {
+            "naked_wrestling": 55,
+            "boxing": 88,
+            "catfight": 58,
+            "sexfight": 65
+        },
+        "personality": {
+            "archetype": "Technician",
+            "temperament": "Calm",
+            "social_style": "Aloof",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 42,
+            "submissive_lean": 50,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 70,
+            "stress": 18,
+            "fatigue": 15,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 11000,
+            "seasons_remaining": 3,
+            "win_bonus": 1600,
+            "release_clause": 38000
+        }
+    },
+    {
+        "id": "fighter_011",
+        "name": "Kateryna",
+        "club_id": "iron_shore",
+        "age": 28,
+        "core_stats": {
+            "power": 72,
+            "technique": 80,
+            "control": 80,
+            "speed": 68,
+            "endurance": 80,
+            "resilience": 75,
+            "aggression": 65,
+            "composure": 80,
+            "presence": 68
+        },
+        "style_affinities": {
+            "naked_wrestling": 82,
+            "boxing": 70,
+            "catfight": 65,
+            "sexfight": 60
+        },
+        "personality": {
+            "archetype": "Strategist",
+            "temperament": "Disciplined",
+            "social_style": "Calculating",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Being outshined"
+            ],
+            "dominance_hunger": 55,
+            "submissive_lean": 38,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 72,
+            "stress": 20,
+            "fatigue": 18,
+            "injury": "none",
+            "morale": 78,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 14000,
+            "seasons_remaining": 2,
+            "win_bonus": 1800,
+            "release_clause": 40000
+        }
+    },
+    {
+        "id": "fighter_012",
+        "name": "Yelena",
+        "club_id": "iron_shore",
+        "age": 21,
+        "core_stats": {
+            "power": 68,
+            "technique": 72,
+            "control": 62,
+            "speed": 88,
+            "endurance": 65,
+            "resilience": 68,
+            "aggression": 78,
+            "composure": 60,
+            "presence": 60
+        },
+        "style_affinities": {
+            "naked_wrestling": 50,
+            "boxing": 68,
+            "catfight": 80,
+            "sexfight": 55
+        },
+        "personality": {
+            "archetype": "Rebel",
+            "temperament": "Volatile",
+            "social_style": "Dominant",
+            "rivalry_style": "Explode",
+            "motivators": [
+                "Freedom",
+                "Revenge"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Humiliation"
+            ],
+            "dominance_hunger": 65,
+            "submissive_lean": 30,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 60,
+            "stress": 38,
+            "fatigue": 12,
+            "injury": "none",
+            "morale": 68,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 6000,
+            "seasons_remaining": 4,
+            "win_bonus": 1000,
+            "release_clause": 22000
+        }
+    },
+    {
+        "id": "fighter_013",
+        "name": "Mei",
+        "club_id": "golden_fang",
+        "age": 26,
+        "core_stats": {
+            "power": 88,
+            "technique": 72,
+            "control": 78,
+            "speed": 72,
+            "endurance": 82,
+            "resilience": 85,
+            "aggression": 82,
+            "composure": 70,
+            "presence": 80
+        },
+        "style_affinities": {
+            "naked_wrestling": 88,
+            "boxing": 65,
+            "catfight": 75,
+            "sexfight": 55
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Obsessive",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Money"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 85,
+            "submissive_lean": 12,
+            "boundaries": [
+                "no_sexfight"
+            ]
+        },
+        "dynamic_state": {
+            "form": 80,
+            "stress": 22,
+            "fatigue": 20,
+            "injury": "none",
+            "morale": 82,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 25000,
+            "seasons_remaining": 2,
+            "win_bonus": 3000,
+            "release_clause": 65000
+        }
+    },
+    {
+        "id": "fighter_014",
+        "name": "Li",
+        "club_id": "golden_fang",
+        "age": 24,
+        "core_stats": {
+            "power": 75,
+            "technique": 80,
+            "control": 65,
+            "speed": 85,
+            "endurance": 70,
+            "resilience": 72,
+            "aggression": 78,
+            "composure": 72,
+            "presence": 88
+        },
+        "style_affinities": {
+            "naked_wrestling": 55,
+            "boxing": 75,
+            "catfight": 78,
+            "sexfight": 85
+        },
+        "personality": {
+            "archetype": "Showboat",
+            "temperament": "Volatile",
+            "social_style": "Charismatic",
+            "rivalry_style": "Humiliate",
+            "motivators": [
+                "Fame",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Being outshined",
+                "Losing streak"
+            ],
+            "dominance_hunger": 62,
+            "submissive_lean": 35,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 72,
+            "stress": 28,
+            "fatigue": 15,
+            "injury": "none",
+            "morale": 76,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 15000,
+            "seasons_remaining": 3,
+            "win_bonus": 2000,
+            "release_clause": 45000
+        }
+    },
+    {
+        "id": "fighter_015",
+        "name": "Wei",
+        "club_id": "golden_fang",
+        "age": 27,
+        "core_stats": {
+            "power": 82,
+            "technique": 68,
+            "control": 85,
+            "speed": 65,
+            "endurance": 88,
+            "resilience": 88,
+            "aggression": 75,
+            "composure": 65,
+            "presence": 62
+        },
+        "style_affinities": {
+            "naked_wrestling": 90,
+            "boxing": 50,
+            "catfight": 70,
+            "sexfight": 45
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Disciplined",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Humiliation"
+            ],
+            "dominance_hunger": 78,
+            "submissive_lean": 18,
+            "boundaries": [
+                "no_sexfight"
+            ]
+        },
+        "dynamic_state": {
+            "form": 75,
+            "stress": 18,
+            "fatigue": 22,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 18000,
+            "seasons_remaining": 2,
+            "win_bonus": 2200,
+            "release_clause": 52000
+        }
+    },
+    {
+        "id": "fighter_016",
+        "name": "Yan",
+        "club_id": "golden_fang",
+        "age": 22,
+        "core_stats": {
+            "power": 65,
+            "technique": 85,
+            "control": 60,
+            "speed": 80,
+            "endurance": 68,
+            "resilience": 65,
+            "aggression": 65,
+            "composure": 82,
+            "presence": 78
+        },
+        "style_affinities": {
+            "naked_wrestling": 45,
+            "boxing": 88,
+            "catfight": 60,
+            "sexfight": 75
+        },
+        "personality": {
+            "archetype": "Strategist",
+            "temperament": "Calm",
+            "social_style": "Calculating",
+            "rivalry_style": "Sabotage",
+            "motivators": [
+                "Legacy",
+                "Fame"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Betrayal"
+            ],
+            "dominance_hunger": 48,
+            "submissive_lean": 52,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 65,
+            "stress": 20,
+            "fatigue": 10,
+            "injury": "none",
+            "morale": 78,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 8000,
+            "seasons_remaining": 3,
+            "win_bonus": 1400,
+            "release_clause": 30000
+        }
+    },
+    {
+        "id": "fighter_017",
+        "name": "Hanna",
+        "club_id": "obsidian_circle",
+        "age": 31,
+        "core_stats": {
+            "power": 80,
+            "technique": 82,
+            "control": 75,
+            "speed": 60,
+            "endurance": 78,
+            "resilience": 85,
+            "aggression": 72,
+            "composure": 92,
+            "presence": 88
+        },
+        "style_affinities": {
+            "naked_wrestling": 70,
+            "boxing": 72,
+            "catfight": 65,
+            "sexfight": 92
+        },
+        "personality": {
+            "archetype": "Ice Queen",
+            "temperament": "Calm",
+            "social_style": "Aloof",
+            "rivalry_style": "Humiliate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 70,
+            "submissive_lean": 20,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 78,
+            "stress": 18,
+            "fatigue": 22,
+            "injury": "none",
+            "morale": 85,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 22000,
+            "seasons_remaining": 2,
+            "win_bonus": 2500,
+            "release_clause": 60000
+        }
+    },
+    {
+        "id": "fighter_018",
+        "name": "Julia",
+        "club_id": "obsidian_circle",
+        "age": 27,
+        "core_stats": {
+            "power": 70,
+            "technique": 78,
+            "control": 82,
+            "speed": 65,
+            "endurance": 80,
+            "resilience": 78,
+            "aggression": 60,
+            "composure": 88,
+            "presence": 72
+        },
+        "style_affinities": {
+            "naked_wrestling": 80,
+            "boxing": 68,
+            "catfight": 60,
+            "sexfight": 78
+        },
+        "personality": {
+            "archetype": "Strategist",
+            "temperament": "Disciplined",
+            "social_style": "Calculating",
+            "rivalry_style": "Sabotage",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Being outshined"
+            ],
+            "dominance_hunger": 58,
+            "submissive_lean": 38,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 72,
+            "stress": 20,
+            "fatigue": 18,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 14000,
+            "seasons_remaining": 3,
+            "win_bonus": 1800,
+            "release_clause": 42000
+        }
+    },
+    {
+        "id": "fighter_019",
+        "name": "Laura",
+        "club_id": "obsidian_circle",
+        "age": 23,
+        "core_stats": {
+            "power": 62,
+            "technique": 70,
+            "control": 60,
+            "speed": 90,
+            "endurance": 65,
+            "resilience": 62,
+            "aggression": 75,
+            "composure": 65,
+            "presence": 70
+        },
+        "style_affinities": {
+            "naked_wrestling": 50,
+            "boxing": 70,
+            "catfight": 82,
+            "sexfight": 65
+        },
+        "personality": {
+            "archetype": "Underdog",
+            "temperament": "Volatile",
+            "social_style": "Charismatic",
+            "rivalry_style": "Explode",
+            "motivators": [
+                "Freedom",
+                "Revenge"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Losing streak"
+            ],
+            "dominance_hunger": 45,
+            "submissive_lean": 60,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 60,
+            "stress": 35,
+            "fatigue": 12,
+            "injury": "none",
+            "morale": 70,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 7000,
+            "seasons_remaining": 3,
+            "win_bonus": 1100,
+            "release_clause": 25000
+        }
+    },
+    {
+        "id": "fighter_020",
+        "name": "Claudia",
+        "club_id": "obsidian_circle",
+        "age": 29,
+        "core_stats": {
+            "power": 85,
+            "technique": 65,
+            "control": 90,
+            "speed": 58,
+            "endurance": 85,
+            "resilience": 90,
+            "aggression": 88,
+            "composure": 60,
+            "presence": 65
+        },
+        "style_affinities": {
+            "naked_wrestling": 92,
+            "boxing": 50,
+            "catfight": 75,
+            "sexfight": 42
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Obsessive",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Betrayal"
+            ],
+            "dominance_hunger": 90,
+            "submissive_lean": 8,
+            "boundaries": [
+                "no_sexfight"
+            ]
+        },
+        "dynamic_state": {
+            "form": 75,
+            "stress": 25,
+            "fatigue": 25,
+            "injury": "none",
+            "morale": 78,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 18000,
+            "seasons_remaining": 2,
+            "win_bonus": 2000,
+            "release_clause": 48000
+        }
+    },
+    {
+        "id": "fighter_021",
+        "name": "Ayse",
+        "club_id": "wildfire_athletic",
+        "age": 22,
+        "core_stats": {
+            "power": 78,
+            "technique": 62,
+            "control": 65,
+            "speed": 85,
+            "endurance": 72,
+            "resilience": 80,
+            "aggression": 92,
+            "composure": 52,
+            "presence": 75
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 58,
+            "catfight": 90,
+            "sexfight": 55
+        },
+        "personality": {
+            "archetype": "Rebel",
+            "temperament": "Volatile",
+            "social_style": "Dominant",
+            "rivalry_style": "Explode",
+            "motivators": [
+                "Freedom",
+                "Revenge"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Humiliation"
+            ],
+            "dominance_hunger": 72,
+            "submissive_lean": 28,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 65,
+            "stress": 40,
+            "fatigue": 15,
+            "injury": "none",
+            "morale": 72,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 8000,
+            "seasons_remaining": 3,
+            "win_bonus": 1300,
+            "release_clause": 28000
+        }
+    },
+    {
+        "id": "fighter_022",
+        "name": "Fatma",
+        "club_id": "wildfire_athletic",
+        "age": 25,
+        "core_stats": {
+            "power": 72,
+            "technique": 70,
+            "control": 70,
+            "speed": 78,
+            "endurance": 78,
+            "resilience": 75,
+            "aggression": 82,
+            "composure": 62,
+            "presence": 68
+        },
+        "style_affinities": {
+            "naked_wrestling": 68,
+            "boxing": 65,
+            "catfight": 85,
+            "sexfight": 55
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Disciplined",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Money"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 68,
+            "submissive_lean": 32,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 68,
+            "stress": 22,
+            "fatigue": 18,
+            "injury": "none",
+            "morale": 75,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 11000,
+            "seasons_remaining": 2,
+            "win_bonus": 1500,
+            "release_clause": 35000
+        }
+    },
+    {
+        "id": "fighter_023",
+        "name": "Zeynep",
+        "club_id": "wildfire_athletic",
+        "age": 20,
+        "core_stats": {
+            "power": 65,
+            "technique": 68,
+            "control": 60,
+            "speed": 88,
+            "endurance": 65,
+            "resilience": 68,
+            "aggression": 80,
+            "composure": 55,
+            "presence": 72
+        },
+        "style_affinities": {
+            "naked_wrestling": 45,
+            "boxing": 75,
+            "catfight": 78,
+            "sexfight": 62
+        },
+        "personality": {
+            "archetype": "Underdog",
+            "temperament": "Volatile",
+            "social_style": "Charismatic",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Fame",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 50,
+            "submissive_lean": 55,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 58,
+            "stress": 35,
+            "fatigue": 10,
+            "injury": "none",
+            "morale": 70,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 5500,
+            "seasons_remaining": 4,
+            "win_bonus": 900,
+            "release_clause": 20000
+        }
+    },
+    {
+        "id": "fighter_024",
+        "name": "Elif",
+        "club_id": "wildfire_athletic",
+        "age": 28,
+        "core_stats": {
+            "power": 80,
+            "technique": 72,
+            "control": 75,
+            "speed": 65,
+            "endurance": 82,
+            "resilience": 82,
+            "aggression": 75,
+            "composure": 68,
+            "presence": 60
+        },
+        "style_affinities": {
+            "naked_wrestling": 80,
+            "boxing": 65,
+            "catfight": 72,
+            "sexfight": 50
+        },
+        "personality": {
+            "archetype": "Technician",
+            "temperament": "Disciplined",
+            "social_style": "Calculating",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 55,
+            "submissive_lean": 40,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 70,
+            "stress": 18,
+            "fatigue": 20,
+            "injury": "none",
+            "morale": 76,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 12000,
+            "seasons_remaining": 2,
+            "win_bonus": 1600,
+            "release_clause": 38000
+        }
+    },
+    {
+        "id": "fighter_025",
+        "name": "Giulia",
+        "club_id": "velvet_dynasty",
+        "age": 28,
+        "core_stats": {
+            "power": 60,
+            "technique": 85,
+            "control": 70,
+            "speed": 72,
+            "endurance": 75,
+            "resilience": 68,
+            "aggression": 48,
+            "composure": 90,
+            "presence": 95
+        },
+        "style_affinities": {
+            "naked_wrestling": 50,
+            "boxing": 65,
+            "catfight": 55,
+            "sexfight": 95
+        },
+        "personality": {
+            "archetype": "Ice Queen",
+            "temperament": "Calm",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Being outshined"
+            ],
+            "dominance_hunger": 55,
+            "submissive_lean": 40,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 75,
+            "stress": 15,
+            "fatigue": 18,
+            "injury": "none",
+            "morale": 85,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 21000,
+            "seasons_remaining": 2,
+            "win_bonus": 2500,
+            "release_clause": 58000
+        }
+    },
+    {
+        "id": "fighter_026",
+        "name": "Sofia",
+        "club_id": "velvet_dynasty",
+        "age": 25,
+        "core_stats": {
+            "power": 65,
+            "technique": 80,
+            "control": 65,
+            "speed": 80,
+            "endurance": 70,
+            "resilience": 65,
+            "aggression": 58,
+            "composure": 88,
+            "presence": 90
+        },
+        "style_affinities": {
+            "naked_wrestling": 45,
+            "boxing": 68,
+            "catfight": 58,
+            "sexfight": 92
+        },
+        "personality": {
+            "archetype": "Strategist",
+            "temperament": "Calm",
+            "social_style": "Calculating",
+            "rivalry_style": "Sabotage",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Being outshined",
+                "Betrayal"
+            ],
+            "dominance_hunger": 62,
+            "submissive_lean": 48,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 70,
+            "stress": 18,
+            "fatigue": 12,
+            "injury": "none",
+            "morale": 82,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 14000,
+            "seasons_remaining": 3,
+            "win_bonus": 1800,
+            "release_clause": 42000
+        }
+    },
+    {
+        "id": "fighter_027",
+        "name": "Martina",
+        "club_id": "velvet_dynasty",
+        "age": 30,
+        "core_stats": {
+            "power": 70,
+            "technique": 78,
+            "control": 78,
+            "speed": 62,
+            "endurance": 82,
+            "resilience": 78,
+            "aggression": 52,
+            "composure": 92,
+            "presence": 88
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 70,
+            "catfight": 55,
+            "sexfight": 90
+        },
+        "personality": {
+            "archetype": "Technician",
+            "temperament": "Disciplined",
+            "social_style": "Aloof",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Betrayal"
+            ],
+            "dominance_hunger": 72,
+            "submissive_lean": 30,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 72,
+            "stress": 20,
+            "fatigue": 22,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 18000,
+            "seasons_remaining": 2,
+            "win_bonus": 2200,
+            "release_clause": 52000
+        }
+    },
+    {
+        "id": "fighter_028",
+        "name": "Lucia",
+        "club_id": "velvet_dynasty",
+        "age": 21,
+        "core_stats": {
+            "power": 55,
+            "technique": 72,
+            "control": 58,
+            "speed": 88,
+            "endurance": 62,
+            "resilience": 60,
+            "aggression": 62,
+            "composure": 80,
+            "presence": 85
+        },
+        "style_affinities": {
+            "naked_wrestling": 35,
+            "boxing": 65,
+            "catfight": 62,
+            "sexfight": 88
+        },
+        "personality": {
+            "archetype": "Showboat",
+            "temperament": "Volatile",
+            "social_style": "Charismatic",
+            "rivalry_style": "Humiliate",
+            "motivators": [
+                "Fame",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Being outshined",
+                "Losing streak"
+            ],
+            "dominance_hunger": 45,
+            "submissive_lean": 62,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 60,
+            "stress": 30,
+            "fatigue": 10,
+            "injury": "none",
+            "morale": 75,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 6500,
+            "seasons_remaining": 4,
+            "win_bonus": 1100,
+            "release_clause": 24000
+        }
+    },
+    {
+        "id": "fighter_029",
+        "name": "Amina",
+        "club_id": "storm_front",
+        "age": 29,
+        "core_stats": {
+            "power": 75,
+            "technique": 82,
+            "control": 80,
+            "speed": 60,
+            "endurance": 92,
+            "resilience": 88,
+            "aggression": 58,
+            "composure": 88,
+            "presence": 65
+        },
+        "style_affinities": {
+            "naked_wrestling": 85,
+            "boxing": 80,
+            "catfight": 60,
+            "sexfight": 58
+        },
+        "personality": {
+            "archetype": "Technician",
+            "temperament": "Disciplined",
+            "social_style": "Calculating",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 42,
+            "submissive_lean": 45,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 78,
+            "stress": 15,
+            "fatigue": 20,
+            "injury": "none",
+            "morale": 85,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 20000,
+            "seasons_remaining": 2,
+            "win_bonus": 2200,
+            "release_clause": 54000
+        }
+    },
+    {
+        "id": "fighter_030",
+        "name": "Ngozi",
+        "club_id": "storm_front",
+        "age": 26,
+        "core_stats": {
+            "power": 80,
+            "technique": 70,
+            "control": 85,
+            "speed": 62,
+            "endurance": 88,
+            "resilience": 92,
+            "aggression": 65,
+            "composure": 80,
+            "presence": 60
+        },
+        "style_affinities": {
+            "naked_wrestling": 88,
+            "boxing": 65,
+            "catfight": 68,
+            "sexfight": 50
+        },
+        "personality": {
+            "archetype": "Alpha",
+            "temperament": "Disciplined",
+            "social_style": "Dominant",
+            "rivalry_style": "Dominate",
+            "motivators": [
+                "Dominance",
+                "Legacy"
+            ],
+            "breakpoints": [
+                "Humiliation",
+                "Betrayal"
+            ],
+            "dominance_hunger": 65,
+            "submissive_lean": 28,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 75,
+            "stress": 18,
+            "fatigue": 18,
+            "injury": "none",
+            "morale": 82,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 15000,
+            "seasons_remaining": 3,
+            "win_bonus": 1900,
+            "release_clause": 45000
+        }
+    },
+    {
+        "id": "fighter_031",
+        "name": "Chioma",
+        "club_id": "storm_front",
+        "age": 32,
+        "core_stats": {
+            "power": 82,
+            "technique": 85,
+            "control": 72,
+            "speed": 55,
+            "endurance": 85,
+            "resilience": 90,
+            "aggression": 60,
+            "composure": 92,
+            "presence": 70
+        },
+        "style_affinities": {
+            "naked_wrestling": 75,
+            "boxing": 88,
+            "catfight": 60,
+            "sexfight": 65
+        },
+        "personality": {
+            "archetype": "Strategist",
+            "temperament": "Calm",
+            "social_style": "Calculating",
+            "rivalry_style": "Outwork",
+            "motivators": [
+                "Legacy",
+                "Dominance"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Humiliation"
+            ],
+            "dominance_hunger": 50,
+            "submissive_lean": 38,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 72,
+            "stress": 20,
+            "fatigue": 25,
+            "injury": "none",
+            "morale": 80,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 21000,
+            "seasons_remaining": 1,
+            "win_bonus": 2500,
+            "release_clause": 55000
+        }
+    },
+    {
+        "id": "fighter_032",
+        "name": "Zainab",
+        "club_id": "storm_front",
+        "age": 24,
+        "core_stats": {
+            "power": 70,
+            "technique": 75,
+            "control": 68,
+            "speed": 80,
+            "endurance": 80,
+            "resilience": 78,
+            "aggression": 72,
+            "composure": 72,
+            "presence": 68
+        },
+        "style_affinities": {
+            "naked_wrestling": 70,
+            "boxing": 72,
+            "catfight": 80,
+            "sexfight": 60
+        },
+        "personality": {
+            "archetype": "Rebel",
+            "temperament": "Volatile",
+            "social_style": "Charismatic",
+            "rivalry_style": "Explode",
+            "motivators": [
+                "Freedom",
+                "Money"
+            ],
+            "breakpoints": [
+                "Betrayal",
+                "Losing streak"
+            ],
+            "dominance_hunger": 60,
+            "submissive_lean": 42,
+            "boundaries": []
+        },
+        "dynamic_state": {
+            "form": 65,
+            "stress": 28,
+            "fatigue": 15,
+            "injury": "none",
+            "morale": 74,
+            "wins": 0,
+            "losses": 0
+        },
+        "relationships": [],
+        "contract": {
+            "salary": 10000,
+            "seasons_remaining": 3,
+            "win_bonus": 1400,
+            "release_clause": 32000
+        }
+    }
+]

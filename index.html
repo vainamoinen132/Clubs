@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Queens of the Ring: Club Dynasty</title>
+    <!-- Modern premium typography -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Data Sources -->
+    <script src="data_clubs.js"></script>
+    <script src="data_fighters.js"></script>
+    <script src="data_narrative.js"></script>
+    <script src="data_staff.js"></script>
+    <script src="data_names.js"></script>
+    <script src="data_scenes.js"></script>
+    <script src="data_underground.js"></script>
+    <!-- Game Scripts -->
+    <script src="state.js" defer></script>
+    <script src="ui_components.js" defer></script>
+    <script src="ui_screens.js" defer></script>
+    <script src="ui_start.js" defer></script>
+    <script src="router.js" defer></script>
+    <script src="sim_engine.js" defer></script>
+    <script src="sim_schedule.js" defer></script>
+    <script src="sim_rounds.js" defer></script>
+    <script src="sim_psychology.js" defer></script>
+    <script src="sim_aging.js" defer></script>
+    <script src="sim_events.js" defer></script>
+    <script src="season_events.js" defer></script>
+    <script src="training_engine.js" defer></script>
+    <script src="ai_engine.js" defer></script>
+    <script src="ai_tactics.js" defer></script>
+    <script src="ai_transfers.js" defer></script>
+    <script src="narrative_generator.js" defer></script>
+    <script src="contract_engine.js" defer></script>
+    <script src="save_system.js" defer></script>
+
+    <!-- Expansion 9 Systems -->
+    <script src="underground_engine.js" defer></script>
+    <script src="relationship_engine.js" defer></script>
+
+    <!-- Individual UI modules will be loaded dynamically or bundled, for now we list them -->
+    <script src="ui_match.js" defer></script>
+    <script src="ui_roster.js" defer></script>
+    <script src="ui_staff.js" defer></script>
+    <script src="ui_training.js" defer></script>
+    <script src="ui_interactions.js" defer></script>
+    <script src="ui_dialogue.js" defer></script>
+    <script src="ui_facilities.js" defer></script>
+    <script src="ui_transfers.js" defer></script>
+    <script src="ui_league.js" defer></script>
+    <script src="ui_tournament.js" defer></script>
+    <script src="ui_news.js" defer></script>
+    <script src="ui_underground.js" defer></script>
+    <script src="ui_relationships.js" defer></script>
+    <script src="ui_club.js" defer></script>
+    <script src="ui_cup.js" defer></script>
+    <script src="ui_sponsors.js" defer></script>
+    <script src="ui_hall_of_fame.js" defer></script>
+    <script src="ui_clubs.js" defer></script>
+
+    <script src="main.js" defer></script>
+</head>
+
+<body>
+
+    <!-- App Container -->
+    <div id="app" class="app-container">
+
+        <!-- Start Screen -->
+        <div id="start-screen" class="view-screen flex-center"
+            style="position: absolute; top:0; left:0; right:0; bottom:0; z-index: 100; background: var(--bg-dark);">
+        </div>
+
+        <!-- Sidebar Navigation (Hidden on start screen) -->
+        <nav id="main-nav" class="glass-panel hidden">
+            <div class="nav-branding">
+                <h1 class="font-outfit text-gradient">Club Dynasty</h1>
+                <div class="season-badge" id="nav-season-badge">Season 1</div>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#" data-route="club" class="nav-item active">Dashboard</a></li>
+                <li><a href="#" data-route="roster" class="nav-item">Roster</a></li>
+                <li><a href="#" data-route="staff" class="nav-item">Staff</a></li>
+                <li><a href="#" data-route="training" class="nav-item">Training</a></li>
+                <li><a href="#" data-route="interactions" class="nav-item">Interactions</a></li>
+                <li><a href="#" data-route="relationships" class="nav-item">Relationships</a></li>
+                <li><a href="#" data-route="underground" class="nav-item" style="color:#ff5252">Underground</a></li>
+                <li><a href="#" data-route="facilities" class="nav-item">Facilities</a></li>
+                <li><a href="#" data-route="sponsors" class="nav-item" style="color:#d4af37;">Sponsors</a></li>
+                <li><a href="#" data-route="transfers" class="nav-item">Scouting</a></li>
+                <li><a href="#" data-route="league" class="nav-item">League</a></li>
+                <li><a href="#" data-route="halloffame" class="nav-item">Hall of Fame</a></li>
+                <li><a href="#" data-route="clubs" class="nav-item">Clubs</a></li>
+                <li><a href="#" data-route="news" class="nav-item">News</a></li>
+            </ul>
+
+            <div class="nav-resources">
+                <div class="resource-item">
+                    <span class="res-label">Money</span>
+                    <span class="res-value" id="res-money">$0</span>
+                </div>
+                <div class="resource-item">
+                    <span class="res-label">Fame</span>
+                    <span class="res-value" id="res-fame">0</span>
+                </div>
+                <div class="resource-item highlight">
+                    <span class="res-label">Action Points</span>
+                    <span class="res-value" id="res-ap">0</span>
+                </div>
+            </div>
+
+            <button id="btn-advance-week" class="btn-primary glass-btn">Advance Week</button>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main id="main-view">
+            <!-- Loading overlay initially -->
+            <div id="loading-screen" class="view-screen active flex-center">
+                <div class="loader">
+                    <h2 class="font-outfit text-gradient">Loading Game Data...</h2>
+                    <div class="spinner"></div>
+                </div>
+            </div>
+
+            <!-- Screens will be injected here by router.js -->
+        </main>
+
+    </div>
+
+</body>
+
+</html>

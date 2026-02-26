@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "ug_001",
+        "name": "Svetlana Dragunov",
+        "age": 31,
+        "tier": 3,
+        "core_stats": {
+            "power": 92,
+            "technique": 85,
+            "control": 88,
+            "speed": 82,
+            "endurance": 92,
+            "composure": 85,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 95,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 85,
+            "boxing": 80,
+            "catfight": 90,
+            "sexfight": 80
+        },
+        "flavor": "A towering, muscular Russian female pit fighter.",
+        "payout_base": 48000,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_002",
+        "name": "Kaelen Mortis",
+        "age": 28,
+        "tier": 3,
+        "core_stats": {
+            "power": 88,
+            "technique": 92,
+            "control": 95,
+            "speed": 98,
+            "endurance": 85,
+            "composure": 90,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 85,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 80,
+            "boxing": 85,
+            "catfight": 85,
+            "sexfight": 90
+        },
+        "flavor": "Intensely athletic with pure black eyes and pale skin.",
+        "payout_base": 46500,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_003",
+        "name": "Valeria Voss",
+        "age": 34,
+        "tier": 3,
+        "core_stats": {
+            "power": 85,
+            "technique": 96,
+            "control": 95,
+            "speed": 85,
+            "endurance": 88,
+            "composure": 95,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 88,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 90,
+            "boxing": 88,
+            "catfight": 80,
+            "sexfight": 85
+        },
+        "flavor": "A cold, calculating martial artist.",
+        "payout_base": 49000,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_004",
+        "name": "Zoya Volkov",
+        "age": 36,
+        "tier": 3,
+        "core_stats": {
+            "power": 98,
+            "technique": 80,
+            "control": 85,
+            "speed": 75,
+            "endurance": 96,
+            "composure": 98,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 92,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 95,
+            "boxing": 92,
+            "catfight": 85,
+            "sexfight": 80
+        },
+        "flavor": "Massive, hulking brawler with an emotionless expression.",
+        "payout_base": 47500,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_005",
+        "name": "Xenia Rostova",
+        "age": 29,
+        "tier": 3,
+        "core_stats": {
+            "power": 88,
+            "technique": 85,
+            "control": 88,
+            "speed": 92,
+            "endurance": 90,
+            "composure": 80,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 96,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 85,
+            "boxing": 85,
+            "catfight": 95,
+            "sexfight": 90
+        },
+        "flavor": "A sadistic, smiling fighter with a terrifying aura.",
+        "payout_base": 45000,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_006",
+        "name": "Lilith Graves",
+        "age": 30,
+        "tier": 3,
+        "core_stats": {
+            "power": 86,
+            "technique": 92,
+            "control": 92,
+            "speed": 88,
+            "endurance": 85,
+            "composure": 95,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 98,
+            "archetype": "Submission"
+        },
+        "style_affinities": {
+            "naked_wrestling": 85,
+            "boxing": 80,
+            "catfight": 92,
+            "sexfight": 98
+        },
+        "flavor": "Highly arrogant, gothic features, and deadly.",
+        "payout_base": 48500,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_007",
+        "name": "Morgana Rex",
+        "age": 33,
+        "tier": 3,
+        "core_stats": {
+            "power": 94,
+            "technique": 90,
+            "control": 95,
+            "speed": 85,
+            "endurance": 95,
+            "composure": 90,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 99,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 90,
+            "boxing": 88,
+            "catfight": 95,
+            "sexfight": 95
+        },
+        "flavor": "Alpha female champion with a regal, brutal physique.",
+        "payout_base": 49900,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_008",
+        "name": "Sloane Steele",
+        "age": 39,
+        "tier": 3,
+        "core_stats": {
+            "power": 88,
+            "technique": 95,
+            "control": 95,
+            "speed": 80,
+            "endurance": 98,
+            "composure": 99,
+            "presence": 80
+        },
+        "personality": {
+            "dominance": 90,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 95,
+            "boxing": 92,
+            "catfight": 85,
+            "sexfight": 85
+        },
+        "flavor": "Seasoned veteran, completely battered but fearless.",
+        "payout_base": 46000,
+        "injury_modifier": 2.5
+    },
+    {
+        "id": "ug_009",
+        "name": "Daria Voronova",
+        "age": 27,
+        "tier": 2,
+        "core_stats": {
+            "power": 78,
+            "technique": 75,
+            "control": 70,
+            "speed": 75,
+            "endurance": 80,
+            "composure": 70,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 80,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 75,
+            "boxing": 80,
+            "catfight": 85,
+            "sexfight": 70
+        },
+        "flavor": "Vicious Eastern European pit fighter.",
+        "payout_base": 18500,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_010",
+        "name": "Roxy Thorne",
+        "age": 24,
+        "tier": 2,
+        "core_stats": {
+            "power": 75,
+            "technique": 70,
+            "control": 65,
+            "speed": 85,
+            "endurance": 78,
+            "composure": 60,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 75,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 70,
+            "boxing": 75,
+            "catfight": 88,
+            "sexfight": 75
+        },
+        "flavor": "Erratic punk rocker turned fighter.",
+        "payout_base": 16500,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_011",
+        "name": "Nova Kane",
+        "age": 25,
+        "tier": 2,
+        "core_stats": {
+            "power": 72,
+            "technique": 78,
+            "control": 75,
+            "speed": 88,
+            "endurance": 76,
+            "composure": 72,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 82,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 75,
+            "boxing": 78,
+            "catfight": 82,
+            "sexfight": 80
+        },
+        "flavor": "Highly athletic, arrogant fighter showing off.",
+        "payout_base": 17800,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_012",
+        "name": "Raven Croft",
+        "age": 23,
+        "tier": 2,
+        "core_stats": {
+            "power": 70,
+            "technique": 80,
+            "control": 82,
+            "speed": 85,
+            "endurance": 85,
+            "composure": 75,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 70,
+            "archetype": "Submission"
+        },
+        "style_affinities": {
+            "naked_wrestling": 82,
+            "boxing": 70,
+            "catfight": 80,
+            "sexfight": 85
+        },
+        "flavor": "Hungry, desperate underdog with wiry muscle.",
+        "payout_base": 16000,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_013",
+        "name": "Cleo Stark",
+        "age": 28,
+        "tier": 2,
+        "core_stats": {
+            "power": 82,
+            "technique": 78,
+            "control": 78,
+            "speed": 76,
+            "endurance": 82,
+            "composure": 80,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 88,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 78,
+            "boxing": 82,
+            "catfight": 80,
+            "sexfight": 78
+        },
+        "flavor": "Dominant, intense fighter staring down her opponent.",
+        "payout_base": 19000,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_014",
+        "name": "Anya Petrov",
+        "age": 29,
+        "tier": 2,
+        "core_stats": {
+            "power": 75,
+            "technique": 88,
+            "control": 90,
+            "speed": 82,
+            "endurance": 80,
+            "composure": 85,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 85,
+            "archetype": "Submission"
+        },
+        "style_affinities": {
+            "naked_wrestling": 88,
+            "boxing": 75,
+            "catfight": 78,
+            "sexfight": 90
+        },
+        "flavor": "Precise, deadly underground submission specialist.",
+        "payout_base": 19500,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_015",
+        "name": "Sasha Kravitz",
+        "age": 26,
+        "tier": 2,
+        "core_stats": {
+            "power": 84,
+            "technique": 70,
+            "control": 68,
+            "speed": 78,
+            "endurance": 85,
+            "composure": 60,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 90,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 75,
+            "boxing": 82,
+            "catfight": 88,
+            "sexfight": 78
+        },
+        "flavor": "Sadistic brawler wearing a psychotic grin.",
+        "payout_base": 17500,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_016",
+        "name": "Nadia Romanov",
+        "age": 30,
+        "tier": 2,
+        "core_stats": {
+            "power": 80,
+            "technique": 85,
+            "control": 82,
+            "speed": 80,
+            "endurance": 82,
+            "composure": 88,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 92,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 80,
+            "boxing": 85,
+            "catfight": 80,
+            "sexfight": 82
+        },
+        "flavor": "Elite Russian fighter with an ice queen persona.",
+        "payout_base": 18800,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_017",
+        "name": "Ingrid Frost",
+        "age": 32,
+        "tier": 2,
+        "core_stats": {
+            "power": 86,
+            "technique": 76,
+            "control": 80,
+            "speed": 72,
+            "endurance": 88,
+            "composure": 85,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 88,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 85,
+            "boxing": 82,
+            "catfight": 75,
+            "sexfight": 80
+        },
+        "flavor": "Tall, broad-shouldered Nordic boss.",
+        "payout_base": 19200,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_018",
+        "name": "Olga Ivanov",
+        "age": 28,
+        "tier": 2,
+        "core_stats": {
+            "power": 85,
+            "technique": 72,
+            "control": 65,
+            "speed": 78,
+            "endurance": 82,
+            "composure": 55,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 84,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 78,
+            "boxing": 80,
+            "catfight": 85,
+            "sexfight": 78
+        },
+        "flavor": "Deeply unstable, rage-filled fighter.",
+        "payout_base": 16800,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_019",
+        "name": "Petra Kage",
+        "age": 31,
+        "tier": 2,
+        "core_stats": {
+            "power": 78,
+            "technique": 85,
+            "control": 88,
+            "speed": 82,
+            "endurance": 80,
+            "composure": 92,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 90,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 82,
+            "boxing": 80,
+            "catfight": 80,
+            "sexfight": 88
+        },
+        "flavor": "Terrifyingly calm alpha fighter.",
+        "payout_base": 19800,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_020",
+        "name": "Vera Rex",
+        "age": 27,
+        "tier": 2,
+        "core_stats": {
+            "power": 82,
+            "technique": 78,
+            "control": 75,
+            "speed": 80,
+            "endurance": 82,
+            "composure": 70,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 92,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 75,
+            "boxing": 78,
+            "catfight": 88,
+            "sexfight": 82
+        },
+        "flavor": "Viciously cruel fighter with a menacing sneer.",
+        "payout_base": 18200,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_021",
+        "name": "Zara Blaze",
+        "age": 24,
+        "tier": 2,
+        "core_stats": {
+            "power": 74,
+            "technique": 75,
+            "control": 70,
+            "speed": 88,
+            "endurance": 78,
+            "composure": 72,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 82,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 72,
+            "boxing": 75,
+            "catfight": 85,
+            "sexfight": 80
+        },
+        "flavor": "Flashy, arrogant, and highly stylized.",
+        "payout_base": 17200,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_022",
+        "name": "Kara Knox",
+        "age": 28,
+        "tier": 2,
+        "core_stats": {
+            "power": 84,
+            "technique": 76,
+            "control": 78,
+            "speed": 75,
+            "endurance": 85,
+            "composure": 72,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 90,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 80,
+            "boxing": 82,
+            "catfight": 85,
+            "sexfight": 82
+        },
+        "flavor": "Inflicting pure pain with highly vascular muscles.",
+        "payout_base": 18500,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_023",
+        "name": "Maya Frost",
+        "age": 26,
+        "tier": 2,
+        "core_stats": {
+            "power": 72,
+            "technique": 86,
+            "control": 88,
+            "speed": 84,
+            "endurance": 78,
+            "composure": 88,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 82,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 82,
+            "boxing": 75,
+            "catfight": 78,
+            "sexfight": 85
+        },
+        "flavor": "Highly technical, emotionless fighter.",
+        "payout_base": 18800,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_024",
+        "name": "Gisele Morana",
+        "age": 29,
+        "tier": 2,
+        "core_stats": {
+            "power": 76,
+            "technique": 88,
+            "control": 85,
+            "speed": 82,
+            "endurance": 80,
+            "composure": 86,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 88,
+            "archetype": "Submission"
+        },
+        "style_affinities": {
+            "naked_wrestling": 85,
+            "boxing": 78,
+            "catfight": 80,
+            "sexfight": 88
+        },
+        "flavor": "Assassin type fighter with elegant features.",
+        "payout_base": 19500,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_025",
+        "name": "Katarina Bane",
+        "age": 25,
+        "tier": 2,
+        "core_stats": {
+            "power": 86,
+            "technique": 70,
+            "control": 65,
+            "speed": 82,
+            "endurance": 84,
+            "composure": 50,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 85,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 78,
+            "boxing": 82,
+            "catfight": 88,
+            "sexfight": 78
+        },
+        "flavor": "Explosive, unhinged, screaming in fury.",
+        "payout_base": 17000,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_026",
+        "name": "Freya Storm",
+        "age": 31,
+        "tier": 2,
+        "core_stats": {
+            "power": 88,
+            "technique": 80,
+            "control": 85,
+            "speed": 74,
+            "endurance": 88,
+            "composure": 85,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 92,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 88,
+            "boxing": 85,
+            "catfight": 82,
+            "sexfight": 80
+        },
+        "flavor": "Dominant, imposing Nordic pit boss.",
+        "payout_base": 19600,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_027",
+        "name": "Isla Black",
+        "age": 28,
+        "tier": 2,
+        "core_stats": {
+            "power": 78,
+            "technique": 82,
+            "control": 84,
+            "speed": 85,
+            "endurance": 80,
+            "composure": 88,
+            "presence": 65
+        },
+        "personality": {
+            "dominance": 88,
+            "archetype": "Submission"
+        },
+        "style_affinities": {
+            "naked_wrestling": 80,
+            "boxing": 75,
+            "catfight": 82,
+            "sexfight": 88
+        },
+        "flavor": "Sinister fighter hiding in the shadows.",
+        "payout_base": 19000,
+        "injury_modifier": 1.8
+    },
+    {
+        "id": "ug_028",
+        "name": "Nina Kael",
+        "age": 20,
+        "tier": 1,
+        "core_stats": {
+            "power": 62,
+            "technique": 58,
+            "control": 55,
+            "speed": 66,
+            "endurance": 68,
+            "composure": 55,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 65,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 62,
+            "catfight": 68,
+            "sexfight": 58
+        },
+        "flavor": "Scrappy, Bruised newcomer pit fighter.",
+        "payout_base": 7500,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_029",
+        "name": "Elena Silva",
+        "age": 23,
+        "tier": 1,
+        "core_stats": {
+            "power": 60,
+            "technique": 65,
+            "control": 62,
+            "speed": 68,
+            "endurance": 65,
+            "composure": 65,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 68,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 65,
+            "boxing": 66,
+            "catfight": 62,
+            "sexfight": 64
+        },
+        "flavor": "Focused Hispanic underground fighter.",
+        "payout_base": 8000,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_030",
+        "name": "Tara Grimm",
+        "age": 22,
+        "tier": 1,
+        "core_stats": {
+            "power": 66,
+            "technique": 52,
+            "control": 50,
+            "speed": 64,
+            "endurance": 64,
+            "composure": 45,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 72,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 55,
+            "boxing": 65,
+            "catfight": 68,
+            "sexfight": 55
+        },
+        "flavor": "Angry, untrained brawler swinging wildly.",
+        "payout_base": 7200,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_031",
+        "name": "Mila Thorne",
+        "age": 25,
+        "tier": 1,
+        "core_stats": {
+            "power": 58,
+            "technique": 62,
+            "control": 65,
+            "speed": 70,
+            "endurance": 62,
+            "composure": 55,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 75,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 58,
+            "boxing": 60,
+            "catfight": 72,
+            "sexfight": 65
+        },
+        "flavor": "Nasty, cheap-shot fighter with a cruel sneer.",
+        "payout_base": 7800,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_032",
+        "name": "Rosa Diaz",
+        "age": 26,
+        "tier": 1,
+        "core_stats": {
+            "power": 68,
+            "technique": 60,
+            "control": 62,
+            "speed": 62,
+            "endurance": 68,
+            "composure": 65,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 70,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 62,
+            "boxing": 68,
+            "catfight": 65,
+            "sexfight": 60
+        },
+        "flavor": "Confident thug fighter with a tough stare.",
+        "payout_base": 8200,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_033",
+        "name": "Carmen Reyes",
+        "age": 21,
+        "tier": 1,
+        "core_stats": {
+            "power": 62,
+            "technique": 64,
+            "control": 60,
+            "speed": 68,
+            "endurance": 62,
+            "composure": 60,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 68,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 65,
+            "catfight": 68,
+            "sexfight": 62
+        },
+        "flavor": "Overly confident, flashy street fighter.",
+        "payout_base": 7900,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_034",
+        "name": "Tia Raze",
+        "age": 20,
+        "tier": 1,
+        "core_stats": {
+            "power": 60,
+            "technique": 58,
+            "control": 54,
+            "speed": 72,
+            "endurance": 64,
+            "composure": 50,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 65,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 58,
+            "boxing": 62,
+            "catfight": 70,
+            "sexfight": 60
+        },
+        "flavor": "Wildly reckless, manic pit fighter.",
+        "payout_base": 7600,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_035",
+        "name": "Zelda Vance",
+        "age": 24,
+        "tier": 1,
+        "core_stats": {
+            "power": 58,
+            "technique": 66,
+            "control": 65,
+            "speed": 62,
+            "endurance": 60,
+            "composure": 70,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 75,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 64,
+            "boxing": 62,
+            "catfight": 60,
+            "sexfight": 68
+        },
+        "flavor": "Cold, dismissive newcomer keeping an ice queen facade.",
+        "payout_base": 8100,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_036",
+        "name": "Rhea Thorne",
+        "age": 25,
+        "tier": 1,
+        "core_stats": {
+            "power": 65,
+            "technique": 58,
+            "control": 62,
+            "speed": 64,
+            "endurance": 66,
+            "composure": 55,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 78,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 62,
+            "boxing": 65,
+            "catfight": 70,
+            "sexfight": 62
+        },
+        "flavor": "Viciously mean brawler enjoying inflicting pain.",
+        "payout_base": 7800,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_037",
+        "name": "Luna Vega",
+        "age": 26,
+        "tier": 1,
+        "core_stats": {
+            "power": 60,
+            "technique": 68,
+            "control": 68,
+            "speed": 65,
+            "endurance": 64,
+            "composure": 72,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 68,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 68,
+            "boxing": 60,
+            "catfight": 62,
+            "sexfight": 65
+        },
+        "flavor": "Quietly intense, calculating fighter.",
+        "payout_base": 8300,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_038",
+        "name": "Gia Rossi",
+        "age": 23,
+        "tier": 1,
+        "core_stats": {
+            "power": 58,
+            "technique": 62,
+            "control": 60,
+            "speed": 66,
+            "endurance": 60,
+            "composure": 68,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 72,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 62,
+            "catfight": 68,
+            "sexfight": 64
+        },
+        "flavor": "Arrogant Italian fighter treating the ring like a runway.",
+        "payout_base": 7700,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_039",
+        "name": "Lexi Venom",
+        "age": 22,
+        "tier": 1,
+        "core_stats": {
+            "power": 62,
+            "technique": 60,
+            "control": 62,
+            "speed": 68,
+            "endurance": 62,
+            "composure": 55,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 75,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 60,
+            "catfight": 72,
+            "sexfight": 66
+        },
+        "flavor": "Highly unpredictable, venomous fighter.",
+        "payout_base": 7900,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_040",
+        "name": "Bianca Bane",
+        "age": 24,
+        "tier": 1,
+        "core_stats": {
+            "power": 66,
+            "technique": 58,
+            "control": 60,
+            "speed": 62,
+            "endurance": 65,
+            "composure": 60,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 78,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 62,
+            "boxing": 65,
+            "catfight": 68,
+            "sexfight": 62
+        },
+        "flavor": "Deeply malicious newcomer glaring violently.",
+        "payout_base": 8000,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_041",
+        "name": "Harper Blood",
+        "age": 27,
+        "tier": 1,
+        "core_stats": {
+            "power": 68,
+            "technique": 64,
+            "control": 65,
+            "speed": 60,
+            "endurance": 68,
+            "composure": 68,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 82,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 66,
+            "boxing": 68,
+            "catfight": 64,
+            "sexfight": 64
+        },
+        "flavor": "Natural-born pit boss in training.",
+        "payout_base": 8400,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_042",
+        "name": "Nyx Vance",
+        "age": 25,
+        "tier": 1,
+        "core_stats": {
+            "power": 60,
+            "technique": 66,
+            "control": 68,
+            "speed": 64,
+            "endurance": 62,
+            "composure": 75,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 70,
+            "archetype": "Submission"
+        },
+        "style_affinities": {
+            "naked_wrestling": 68,
+            "boxing": 60,
+            "catfight": 62,
+            "sexfight": 68
+        },
+        "flavor": "Gothic, emotionless fighter staring dead ahead.",
+        "payout_base": 8200,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_043",
+        "name": "Talon Cross",
+        "age": 26,
+        "tier": 1,
+        "core_stats": {
+            "power": 64,
+            "technique": 65,
+            "control": 65,
+            "speed": 68,
+            "endurance": 65,
+            "composure": 70,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 75,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 65,
+            "boxing": 65,
+            "catfight": 66,
+            "sexfight": 65
+        },
+        "flavor": "Highly focused, sharp fighter with calculating stare.",
+        "payout_base": 8300,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_044",
+        "name": "Ivy Cross",
+        "age": 21,
+        "tier": 1,
+        "core_stats": {
+            "power": 58,
+            "technique": 60,
+            "control": 58,
+            "speed": 66,
+            "endurance": 64,
+            "composure": 55,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 65,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 60,
+            "catfight": 65,
+            "sexfight": 60
+        },
+        "flavor": "Desperate fighter fighting for survival.",
+        "payout_base": 7400,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_045",
+        "name": "Serena Vane",
+        "age": 23,
+        "tier": 1,
+        "core_stats": {
+            "power": 62,
+            "technique": 64,
+            "control": 62,
+            "speed": 64,
+            "endurance": 62,
+            "composure": 60,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 72,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 62,
+            "boxing": 64,
+            "catfight": 66,
+            "sexfight": 62
+        },
+        "flavor": "Arrogant showboating newcomer.",
+        "payout_base": 7800,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_046",
+        "name": "Fiona Graves",
+        "age": 27,
+        "tier": 1,
+        "core_stats": {
+            "power": 70,
+            "technique": 60,
+            "control": 62,
+            "speed": 58,
+            "endurance": 70,
+            "composure": 65,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 80,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 64,
+            "boxing": 70,
+            "catfight": 62,
+            "sexfight": 60
+        },
+        "flavor": "Brutal, merciless fighter ready to break bones.",
+        "payout_base": 8500,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_047",
+        "name": "Hera Blood",
+        "age": 24,
+        "tier": 1,
+        "core_stats": {
+            "power": 66,
+            "technique": 58,
+            "control": 60,
+            "speed": 64,
+            "endurance": 66,
+            "composure": 50,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 75,
+            "archetype": "Brawler"
+        },
+        "style_affinities": {
+            "naked_wrestling": 60,
+            "boxing": 66,
+            "catfight": 68,
+            "sexfight": 58
+        },
+        "flavor": "Violently angry brawler screaming in rage.",
+        "payout_base": 7700,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_048",
+        "name": "Athena Stark",
+        "age": 26,
+        "tier": 1,
+        "core_stats": {
+            "power": 64,
+            "technique": 66,
+            "control": 65,
+            "speed": 62,
+            "endurance": 64,
+            "composure": 68,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 78,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 65,
+            "boxing": 64,
+            "catfight": 62,
+            "sexfight": 65
+        },
+        "flavor": "Commanding, arrogant fighter feeling superior.",
+        "payout_base": 8100,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_049",
+        "name": "Yulia Korshak",
+        "age": 22,
+        "tier": 1,
+        "core_stats": {
+            "power": 62,
+            "technique": 60,
+            "control": 65,
+            "speed": 66,
+            "endurance": 62,
+            "composure": 58,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 72,
+            "archetype": "Sadistic"
+        },
+        "style_affinities": {
+            "naked_wrestling": 62,
+            "boxing": 60,
+            "catfight": 66,
+            "sexfight": 65
+        },
+        "flavor": "Sadistic Russian newcomer smiling unpleasantly.",
+        "payout_base": 7800,
+        "injury_modifier": 1.4
+    },
+    {
+        "id": "ug_050",
+        "name": "Diana Varga",
+        "age": 25,
+        "tier": 1,
+        "core_stats": {
+            "power": 60,
+            "technique": 68,
+            "control": 70,
+            "speed": 62,
+            "endurance": 64,
+            "composure": 72,
+            "presence": 50
+        },
+        "personality": {
+            "dominance": 70,
+            "archetype": "Technical"
+        },
+        "style_affinities": {
+            "naked_wrestling": 68,
+            "boxing": 60,
+            "catfight": 60,
+            "sexfight": 68
+        },
+        "flavor": "Cold, methodical Eastern European fighter.",
+        "payout_base": 8200,
+        "injury_modifier": 1.4
+    }
+]

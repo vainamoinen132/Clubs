@@ -1,0 +1,106 @@
+﻿[
+    {
+        "id": "crimson_court",
+        "name": "🇺🇸 USA",
+        "color": "#002868",
+        "ai_persona": "talent_developer",
+        "home_advantage": "economy_rich",
+        "fighter_ids": [
+            "fighter_001",
+            "fighter_002",
+            "fighter_003",
+            "fighter_004"
+        ]
+    },
+    {
+        "id": "neon_syndicate",
+        "name": "🇧🇷 Brazil",
+        "color": "#009739",
+        "ai_persona": "brand_first",
+        "home_advantage": "staff_boost",
+        "fighter_ids": [
+            "fighter_005",
+            "fighter_006",
+            "fighter_007",
+            "fighter_008"
+        ]
+    },
+    {
+        "id": "iron_shore",
+        "name": "🇷🇺 Russia",
+        "color": "#D52B1E",
+        "ai_persona": "tactician",
+        "home_advantage": "style_wrestling",
+        "fighter_ids": [
+            "fighter_009",
+            "fighter_010",
+            "fighter_011",
+            "fighter_012"
+        ]
+    },
+    {
+        "id": "golden_fang",
+        "name": "🇨🇳 China",
+        "color": "#EE1C25",
+        "ai_persona": "big_spender",
+        "home_advantage": "economy_rich",
+        "fighter_ids": [
+            "fighter_013",
+            "fighter_014",
+            "fighter_015",
+            "fighter_016"
+        ]
+    },
+    {
+        "id": "obsidian_circle",
+        "name": "🇩🇪 Germany",
+        "color": "#FFCC00",
+        "ai_persona": "saboteur",
+        "home_advantage": "facility_boost",
+        "fighter_ids": [
+            "fighter_017",
+            "fighter_018",
+            "fighter_019",
+            "fighter_020"
+        ]
+    },
+    {
+        "id": "wildfire_athletic",
+        "name": "🇹🇷 Turkey",
+        "color": "#E30A17",
+        "ai_persona": "balanced",
+        "home_advantage": "style_catfight",
+        "fighter_ids": [
+            "fighter_021",
+            "fighter_022",
+            "fighter_023",
+            "fighter_024"
+        ]
+    },
+    {
+        "id": "velvet_dynasty",
+        "name": "🇮🇹 Italy",
+        "color": "#008C45",
+        "ai_persona": "talent_developer",
+        "home_advantage": "style_sexfight",
+        "fighter_ids": [
+            "fighter_025",
+            "fighter_026",
+            "fighter_027",
+            "fighter_028"
+        ]
+    },
+    {
+        "id": "storm_front",
+        "name": "🇳🇬 Nigeria",
+        "color": "#008751",
+        "ai_persona": "tactician",
+        "home_advantage": "style_boxing",
+        "fighter_ids": [
+            "fighter_029",
+            "fighter_030",
+            "fighter_031",
+            "fighter_032"
+        ]
+    }
+]
